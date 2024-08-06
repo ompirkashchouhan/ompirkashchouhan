@@ -10,7 +10,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ompirkashchouhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ompirkashchouhan" height="30" width="40" /></a>
-<a href="https://fb.com/ompirkash chouhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ompirkash chouhan" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ompirkash-chouhan-a1683b273/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ompirkashchouhan" height="30" width="40" /></a>
+<a href="https://web.facebook.com/om.pirkash.5855" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ompirkash chouhan" height="30" width="40" /></a>
 </p>
 
