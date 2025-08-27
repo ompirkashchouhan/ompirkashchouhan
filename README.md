@@ -1,6 +1,6 @@
 <!-- Animated Background Banner -->
 <p align="center">
-  <img src="https://pin.it/2pJ1QijNX" alt="animated background" width="100%"/>
+  <img src="https://pin.it/2pJ1QijNX" alt="animated background"/>
 </p>
 
 <!-- Typing Animation -->
