@@ -1,6 +1,6 @@
 <!-- Animated Background Banner -->
 <p align="center">
-  <img src="[https://i.pinimg.com/originals/5a/21/e4/5a21e461bdd743da75452220b91527d4.gif](https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUyNTBkZ3dlaXdwZTN2aHhrN3o3Z252ODl6ZXpic3NjZWk4aXMzZnluMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1pmatQ3LcP5XFYxSWF/200.gif)" alt="animated background" height="150px" width="100%"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUyNTBkZ3dlaXdwZTN2aHhrN3o3Z252ODl6ZXpic3NjZWk4aXMzZnluMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1pmatQ3LcP5XFYxSWF/200.gif" alt="animated background" height="150px" width="100%"/>
 </p>
 
 <!-- Typing Animation -->
