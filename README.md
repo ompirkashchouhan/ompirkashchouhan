@@ -1,6 +1,10 @@
-<!-- Animated Header -->
+<!-- Animated Header with Background -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/236636178-1c8d8d57-4b49-4c46-8aee-d9f7a4e6b0c3.gif" alt="animated background" width="100%" />
+</p>
+
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Ompirkash+Chouhan;Frontend+Developer+💻;Tech+Enthusiast+🚀;Always+Learning+New+Things!"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Ompirkash+Chouhan;Frontend+Developer+💻;Tech+Enthusiast+🚀;Always+Learning+New+Things!"/>
 </h1>
 
 <h3 align="center">A passionate Frontend Developer from Pakistan 🇵🇰</h3>
