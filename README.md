@@ -52,6 +52,4 @@ Welcome to my GitHub profile. I'm a passionate **Front-end Web Developer** from 
   <!-- Tools -->
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
-<center>
-  <h2>Thanks for reading the readme.</h2>
-</center>
+<h3 text-align="center">Thanks for reading the readme.</h3>
