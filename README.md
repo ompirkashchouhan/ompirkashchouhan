@@ -12,9 +12,11 @@
 ---
 
 ### 🌟 About Me
-- 💬 Ask me about **JavaScript, ReactJs**  
-- 📫 Reach me at: **omsuther6@gmail.com**  
-- ⚡ Fun fact: **I'm funny sometimes 😅**
+Welcome to my GitHub profile. I'm a passionate **Front-end Web Developer** from Pakistan . 
+
+- 🌍 **Location:** Pakistan, Mithi Tharparkar.
+- 💻 **Expertise:** HTML, CSS, Bootstrap, JavaScript, Firebase, React.js, Next.js, Supabase, Git, Api-Integration.
+- 🎨 **UI Libraries:** Bootstrap, Tailwind CSS, Material UI.
 
 ---
 
@@ -50,9 +52,6 @@
   <!-- Tools -->
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
-
----
-
----
-
-🔥 _“Code. Create. Innovate.”_ 🚀
+<center>
+  <h4>Thanks for reading the readme.</h4>
+</center>
