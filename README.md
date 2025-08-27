@@ -1,8 +1,3 @@
-<!-- Animated Background Banner -->
-<p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyNm44Ym5sYnI0YXJqcGFxY2MxMmRtYXYzeTcza3Vid3kyb3NqZXcwcCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1oF1KAEYvmXBMo6uTS/giphy.gif" alt="animated background" height="150px" width="100%"/>
-</p>
-
 <!-- Typing Animation -->
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Ompirkash+Chouhan;Frontend+Developer+💻;Tech+Enthusiast+🚀;Always+Learning+New+Things!"/>
