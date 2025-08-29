@@ -1,7 +1,84 @@
-<!-- Typing Animation -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Ompirkash+Chouhan;Frontend+Developer+💻;Problem+Solver+⚡+;Always+Learning+New+Things!"/>
-</h1>
+<!-- Typing + Changing Text (Pure SVG, no JS) -->
+<p align="center">
+  <svg width="600" height="80" viewBox="0 0 600 80" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Typing animation">
+    <!-- Background (optional) -->
+    <rect x="0" y="0" width="600" height="80" rx="12" fill="#0d1117"/>
+    
+    <!-- Title (optional) -->
+    <text x="300" y="24" text-anchor="middle" font-family="Inter, Segoe UI, Roboto, Arial, sans-serif" font-size="14" fill="#9da7b3">
+      Welcome to my GitHub
+    </text>
+
+    <!-- Phrase 1 -->
+    <defs>
+      <clipPath id="clip1">
+        <rect x="120" y="36" width="0" height="30">
+          <!-- Type -->
+          <animate attributeName="width" values="0;420" dur="2s" begin="0s;erase3.end+0.5s" fill="freeze"/>
+          <!-- Hold -->
+          <animate attributeName="width" values="420;420" dur="0.7s" begin="type1.end" fill="freeze" id="hold1"/>
+          <!-- Erase -->
+          <animate attributeName="width" values="420;0" dur="0.3s" begin="hold1.end" fill="freeze" id="erase1"/>
+        </rect>
+      </clipPath>
+    </defs>
+    <text x="120" y="58" font-family="Fira Code, Menlo, Consolas, monospace" font-size="22" fill="#e6edf3" clip-path="url(#clip1)">
+      Hi, I'm Ompirkash — Frontend Web Developer.
+    </text>
+    <!-- Cursor 1 -->
+    <rect x="120" y="36" width="2" height="30" fill="#58a6ff">
+      <animate attributeName="x" values="120;540" dur="2s" begin="0s;erase3.end+0.5s" fill="freeze" id="type1"/>
+      <animate attributeName="opacity" values="1;0;1;0;1" dur="0.8s" repeatCount="indefinite" begin="0s"/>
+      <animate attributeName="x" values="540;120" dur="0.3s" begin="hold1.end" fill="freeze"/>
+    </rect>
+
+    <!-- Phrase 2 -->
+    <defs>
+      <clipPath id="clip2">
+        <rect x="120" y="36" width="0" height="30">
+          <animate attributeName="width" values="0;420" dur="2s" begin="erase1.end+0.2s" fill="freeze"/>
+          <animate attributeName="width" values="420;420" dur="0.7s" begin="type2.end" fill="freeze" id="hold2"/>
+          <animate attributeName="width" values="420;0" dur="0.3s" begin="hold2.end" fill="freeze" id="erase2"/>
+        </rect>
+      </clipPath>
+    </defs>
+    <text x="120" y="58" font-family="Fira Code, Menlo, Consolas, monospace" font-size="22" fill="#e6edf3" clip-path="url(#clip2)">
+      I build clean UI with React & Next.js.
+    </text>
+    <!-- Cursor 2 -->
+    <rect x="120" y="36" width="2" height="30" fill="#58a6ff">
+      <animate attributeName="x" values="120;540" dur="2s" begin="erase1.end+0.2s" fill="freeze" id="type2"/>
+      <animate attributeName="opacity" values="1;0;1;0;1" dur="0.8s" repeatCount="indefinite" begin="0s"/>
+      <animate attributeName="x" values="540;120" dur="0.3s" begin="hold2.end" fill="freeze"/>
+    </rect>
+
+    <!-- Phrase 3 -->
+    <defs>
+      <clipPath id="clip3">
+        <rect x="120" y="36" width="0" height="30">
+          <animate attributeName="width" values="0;420" dur="2s" begin="erase2.end+0.2s" fill="freeze"/>
+          <animate attributeName="width" values="420;420" dur="0.7s" begin="type3.end" fill="freeze" id="hold3"/>
+          <animate attributeName="width" values="420;0" dur="0.3s" begin="hold3.end" fill="freeze" id="erase3"/>
+        </rect>
+      </clipPath>
+    </defs>
+    <text x="120" y="58" font-family="Fira Code, Menlo, Consolas, monospace" font-size="22" fill="#e6edf3" clip-path="url(#clip3)">
+      Performance-focused, pixel-perfect, responsive.
+    </text>
+    <!-- Cursor 3 -->
+    <rect x="120" y="36" width="2" height="30" fill="#58a6ff">
+      <animate attributeName="x" values="120;540" dur="2s" begin="erase2.end+0.2s" fill="freeze" id="type3"/>
+      <animate attributeName="opacity" values="1;0;1;0;1" dur="0.8s" repeatCount="indefinite" begin="0s"/>
+      <animate attributeName="x" values="540;120" dur="0.3s" begin="hold3.end" fill="freeze"/>
+    </rect>
+
+    <!-- Subtext -->
+    <text x="300" y="74" text-anchor="middle" font-family="Inter, Segoe UI, Roboto, Arial, sans-serif" font-size="12" fill="#9da7b3">
+      HTML • CSS • JavaScript • React • Next.js
+    </text>
+  </svg>
+</p>
+
 
 
 <h3 align="center">A passionate Frontend Developer from Pakistan 🇵🇰</h3>
