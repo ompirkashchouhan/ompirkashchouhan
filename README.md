@@ -1,17 +1,6 @@
-<!-- README.md -->
+<!-- Top Animated Bar -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ompirkash%20Chouhan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Passionate%20Developer%20%7C%20Tech%20Enthusiast%20%7C%20Problem%20Solver&descSize=16&descAlignY=51" width="100%"/>
 
-<p align="center">
-  <svg width="600" height="80" viewBox="0 0 600 80" xmlns="http://www.w3.org/2000/svg">
-    <text x="300" y="40" text-anchor="middle" font-size="20" font-family="monospace" fill="white">
-      Animated Text Here
-    </text>
-  </svg>
-</p>
-
-
-
-
-<h3 align="center">A passionate Frontend Developer from Pakistan 🇵🇰</h3>
 
 <!-- Coding GIF -->
 <img align="right" alt="Coding" width="360" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"/>
@@ -19,7 +8,7 @@
 ---------------------------
 
 ### 🌟 About Me
-Welcome to my GitHub profile. I'm a passionate **Front-end Web Developer** from Pakistan . 
+Welcome to my GitHub profile. I'm a passionate **Front-end Web Developer** from Pakistan .
 
 - 🌍 **Location:** Pakistan, Mithi Tharparkar.
 - 💻 **Expertise:** HTML, CSS, Bootstrap, JavaScript, Firebase, React.js, Next.js, Supabase, Git, Api-Integration.
