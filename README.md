@@ -7,7 +7,7 @@
 
 ---------------------------
 
-### 🌟 About Me
+### About Me
 Welcome to my GitHub profile. I'm a passionate **Front-end Web Developer** from Pakistan .
 
 - 🌍 **Location:** Pakistan, Mithi Tharparkar.
