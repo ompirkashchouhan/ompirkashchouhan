@@ -28,7 +28,7 @@ Welcome to my GitHub profile. I'm a passionate **Front-end Web Developer** from 
 
 ---
 
-### 🚀 Languages & Tools
+### Languages & Tools
 <p align="left">
   <!-- Core -->
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
