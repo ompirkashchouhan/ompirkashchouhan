@@ -16,7 +16,7 @@ Welcome to my GitHub profile. I'm a passionate **Front-end Web Developer** from 
 
 ---
 
-### 🔗 Connect With Me
+### Connect With Me
 <p align="left">
   <a href="https://www.linkedin.com/in/ompirkash-chouhan-a1683b273/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
